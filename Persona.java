@@ -14,4 +14,8 @@ public class Persona {
 	
 	public String getNombre(){return nombre;}
 	public int getEdad(){return edad;}	
-}//fin Persona
+}
+
+//fin Persona
+
+	System.out.print("Hola!");
